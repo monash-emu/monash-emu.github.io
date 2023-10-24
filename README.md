@@ -19,7 +19,7 @@ It includes tight integration with tools like [PyMC](https://www.pymc.io/) and [
 - [Code](https://github.com/monash-emu/estival)
 - [Pypi Package](https://pypi.org/project/estival/)
 
-### Additional resources
+### Epidemiological applications
 
 #### [Textbook](https://github.com/monash-emu/summer-textbook)
 
