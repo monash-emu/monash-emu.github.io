@@ -10,8 +10,6 @@ It uses [jax](https://jax.readthedocs.io) to compile these models to fast optimi
 - [Code](https://github.com/monash-emu/summer2)
 - [Documentation](https://summer2.readthedocs.io/) 
 - [Pypi Package](https://pypi.org/project/summerepi2/) 
-- [Output validation](https://github.com/monash-emu/summer-vynnycky-white-validation)
-- [Summer-based textbook of infectious disease modelling](https://github.com/monash-emu/summer-textbook)
 
 ### Estival
 
@@ -20,3 +18,15 @@ It includes tight integration with tools like [PyMC](https://www.pymc.io/) and [
 
 - [Code](https://github.com/monash-emu/estival)
 - [Pypi Package](https://pypi.org/project/estival/)
+
+### Additional resources
+
+#### [Textbook](https://github.com/monash-emu/summer-textbook)
+
+A summer based textbook of infectious disease modelling
+
+
+#### [Output validation](https://github.com/monash-emu/summer-vynnycky-white-validation)
+
+Reproduction of the [Vynnycky & White](https://anintroductiontoinfectiousdiseasemodelling.com/) models using summer
+
