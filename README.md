@@ -1,5 +1,7 @@
 # Monash-EMU
-A collection of resources for the software packages produced by the Monash Epidemiological Modelling Unit.
+A collection of resources for the software packages produced by the [Monash Epidemiological Modelling Unit](https://www.monash.edu/medicine/sphpm/units/epidemiological-modelling).
+
+## Software Packages
 
 ### Summer
 
@@ -19,14 +21,16 @@ It includes tight integration with tools like [PyMC](https://www.pymc.io/) and [
 - [Code](https://github.com/monash-emu/estival)
 - [Pypi Package](https://pypi.org/project/estival/)
 
-### Epidemiological applications
+## Epidemiological applications
 
-#### [Textbook](https://github.com/monash-emu/summer-textbook)
+### Textbook
 
 A summer based textbook of infectious disease modelling
+- [Link](https://github.com/monash-emu/summer-textbook)
 
-
-#### [Output validation](https://github.com/monash-emu/summer-vynnycky-white-validation)
+### Output validation
 
 Reproduction of the [Vynnycky & White](https://anintroductiontoinfectiousdiseasemodelling.com/) models using summer
+- [Link](https://github.com/monash-emu/summer-vynnycky-white-validation)
 
+## Publications
