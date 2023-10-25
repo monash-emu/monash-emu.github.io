@@ -1,4 +1,3 @@
-# Monash-EMU
 A collection of software packages and related resources produced by the [Monash Epidemiological Modelling Unit](https://www.monash.edu/medicine/sphpm/units/epidemiological-modelling).
 
 ## Software Packages
